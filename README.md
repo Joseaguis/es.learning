@@ -3,4 +3,4 @@ Repository of my personal learning
 
 At the moment i'm learning
 
-JAVA | C# | Python | Terraform
+Json | JAVA | C# | Python | Terraform | Azure Powershell & CLI
